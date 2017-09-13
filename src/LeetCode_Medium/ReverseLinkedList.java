@@ -1,7 +1,5 @@
 package LeetCode_Medium;
 
-import Rupesh_Linkedlist.Linkedlist;
-
 /**
  * Created by rupeshkb on 8/15/17.
  */

@@ -1,0 +1,46 @@
+http://www.crazyforcode.com/linked-list/
+https://www.careercup.com/page?pid=linked-lists-interview-questions&n=3
+http://www.geeksforgeeks.org/top-20-linked-list-interview-question/
+http://career.guru99.com/top-17-linked-list-interview-questions/
+https://leetcode.com/tag/linked-list/
+https://www.hackerrank.com/domains/data-structures/linked-lists/2
+https://github.com/gnijuohz/similarity.leetcode.geeksforgeeks/blob/master/similar_qs.md
+
+LinkedList Questions:
+
+1. Introduction to Linked Lists
+2. Linked List Implementation | Part 1
+3. Linked List Implementation | Part 2 Static Linked List in C
+4. Clone given Linked List
+5. Delete Linked List
+6. Pop operation in linked list
+7. Insert given node into the correct sorted position in the given sorted linked list
+8. Given a linked list, change it to be in sorted order
+9. Split the nodes of the given linked list into front and back halves
+10. Remove duplicates from a sorted linked list
+
+Extra: implement queue using linkedlist
+Inserting node in linkedlist at a given position
+
+11. Move front node of the given list to the front of the another list
+12. Rearrange the given list such that every even node will be
+moved to end of the list in reverse order Split given linked list into
+two lists where each list containing alternating elements from it Construct a linked list by merging alternate nodes of two given lists
+13. Merge given sorted linked lists into one
+14. Merge Sort for Singly Linked List
+15. Intersection of two given sorted linked lists
+16. Reverse linked list | Part 1 (Iterative Solution)
+17. Reverse linked list | Part 2 (Recursive Solution)
+18. Reverse every group of k nodes in given linked list
+19. Find K’th node from the end in a linked list
+20. Merge alternate nodes of two linked lists into the first list
+
+21. Merge two sorted linked lists from their end
+22. Delete every N nodes in a linked list after skipping M nodes
+23. Rearrange linked list in specific manner in linear time
+24. Check if linked list is palindrome or not
+25. Move last node to front in a given Linked List
+26. Rearrange the linked list in specific manner
+27. Detect Cycle in a linked list (Floyd’s Cycle Detection Algorithm)
+28. Sort linked list containing 0’s, 1’s and 2’s
+29.
