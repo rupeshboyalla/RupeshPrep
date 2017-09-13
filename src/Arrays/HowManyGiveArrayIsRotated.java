@@ -5,7 +5,7 @@ package Arrays;
  * Condition: No duplicates in an array and array is sorted array
  *
  * Ex: give array = 1,2,3,4,5,6,7
- *  2,3,4,1,5,6,7
+ *  5,6,7,1,2,3,4
  *
  *  This array is rotated 3 times
  *
